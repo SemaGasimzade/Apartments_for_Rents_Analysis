@@ -21,10 +21,14 @@ Data cleaning and formatting.
 ## Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 
-1.What is the average rental price for each category (apartment, home, short_term)?									
-2.How do rental prices for each category differ by location (e.g., city, state)?									
-3.Do certain amenities (e.g., parking, pet-friendly policies) have a different impact on pricing									
-4.How does the size of the apartment correlate with the rental price?									
+1.What is the average rental price for each category (apartment, home, short_term)?	
+
+2.How do rental prices for each category differ by location (e.g., city, state)?		
+
+3.Do certain amenities (e.g., parking, pet-friendly policies) have a different impact on pricing?
+
+4.How does the size of the apartment correlate with the rental price?					
+
 5.How do rental prices change over time (if date information is available)?									
 
 ## Data Analysis
