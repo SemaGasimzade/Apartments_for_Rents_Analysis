@@ -51,3 +51,5 @@ Consider adding amenities like gyms or laundry facilities to make the apartments
 
 
 
+
+![Dashboard](https://github.com/user-attachments/assets/01fe89d5-6937-4dbe-854f-f46d144f3eaf)
