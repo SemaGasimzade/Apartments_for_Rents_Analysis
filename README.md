@@ -26,6 +26,24 @@ EDA involved exploring the sales data to answer key questions, such as:
 3.Do certain amenities (e.g., parking, pet-friendly policies) have a different impact on pricing									
 4.How does the size of the apartment correlate with the rental price?									
 5.How do rental prices change over time (if date information is available)?									
-![image](https://github.com/user-attachments/assets/55c7b590-cabe-40fe-884f-33be203c6a86)
+
+## Data Analysis
+Present the key analyses performed, including:
+Price comparisons by location.
+Correlation analysis between size and price.
+Any clustering or segmentation performed.
+
+## Results/Findings
+The analysis results are summarized as follows:
+
+The price of the apartments have been steadily increasing during the 22-25th December, with a noticeable peak during the holiday season.
+Larger apartments and those with additional amenities (such as parking and pet-friendliness) were priced higher.
+Prices varied significantly by region, with metropolitan areas showing higher increases compared to rural locations. For instance, cities like New York and San Francisco experienced price surges of over 15% during this time, while smaller towns saw a modest increase of around 5%.
+
+## Recommendations
+Increase rental prices during peak times, like the holiday season, to maximize income.
+Make sure to showcase important apartment features (size, location, amenities) in listings to attract renters.
+Consider adding amenities like gyms or laundry facilities to make the apartments more appealing.
+
 
 
